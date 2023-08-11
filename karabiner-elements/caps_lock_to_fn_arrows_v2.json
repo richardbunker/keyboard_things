@@ -1,5 +1,5 @@
 {
-  "title": "Change caps_lock to fn, and then remap ikjl to arrow keys",
+  "title": "Add arrow keys layer via Caps to fn mod.",
   "rules": [
     {
       "description": "Change caps_lock to fn.",
@@ -21,7 +21,7 @@
       ]
     },
     {
-      "description": "Change aahhhh + ikjl to Arrows",
+      "description": "Change ikjl to arrows",
       "manipulators": [
         {
           "type": "basic",
