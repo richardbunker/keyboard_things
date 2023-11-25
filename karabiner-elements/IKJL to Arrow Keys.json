@@ -1,5 +1,5 @@
 {
-    "title": "IKJL to Arrow Keys",
+    "title": "Custom keybindings for MacOS",
     "rules": [
         {
             "description": "Change right_command to toggle layer.",
