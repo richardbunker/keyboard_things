@@ -53,7 +53,7 @@
                 },
                 {
                     "from": {
-                        "key_code": "k",
+                        "key_code": "c",
                         "modifiers": {
                             "mandatory": ["right_command"],
                             "optional": ["any"]
@@ -68,7 +68,7 @@
                 },
                 {
                     "from": {
-                        "key_code": "i",
+                        "key_code": "v",
                         "modifiers": {
                             "mandatory": ["right_command"],
                             "optional": ["any"]
@@ -83,7 +83,7 @@
                 },
                 {
                     "from": {
-                        "key_code": "l",
+                        "key_code": "p",
                         "modifiers": {
                             "mandatory": ["right_command"],
                             "optional": ["any"]
