@@ -109,6 +109,28 @@
                 }
             ],
             "type": "basic"
+        },
+        {
+            "from": {
+                "key_code": "6",
+                "modifiers": {
+                    "mandatory": [
+                        "left_shift",
+                        "left_command",
+                        "left_control",
+                        "left_option"
+                    ],
+                    "optional": [
+                        "any"
+                    ]
+                }
+            },
+            "to": [
+                {
+                    "key_code": "escape"
+                }
+            ],
+            "type": "basic"
         }
     ]
 }
